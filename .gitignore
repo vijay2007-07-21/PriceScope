@@ -1,0 +1,7 @@
+@"
+.venv/
+.venv310/
+__pycache__/
+.env
+.vercel/
+"@ | Set-Content .gitignore
