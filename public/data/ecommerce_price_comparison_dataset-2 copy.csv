@@ -1,0 +1,241 @@
+Product_ID,Product_Name,Brand,Category,Website,Price_INR,MRP_INR,Discount_Percent,Rating,Availability,Product_URL,Timestamp,Lowest_Price_INR,Best_Website
+P0001,boAt Rockerz 450 Wireless Headphones,boAt,Electronics,Amazon,1576,2182,27.8,4.5,In Stock,https://www.amazon.com/,01-09-2026,1338,Flipkart
+P0001,boAt Rockerz 450 Wireless Headphones,boAt,Electronics,Amazon,1363,1872,27.2,3.9,In Stock,https://www.amazon.com/,02-09-2026,1363,Amazon
+P0001,boAt Rockerz 450 Wireless Headphones,boAt,Electronics,Amazon,1551,1977,21.5,3.8,In Stock,https://www.amazon.com/,03-09-2026,1381,Myntra
+P0001,boAt Rockerz 450 Wireless Headphones,boAt,Electronics,Flipkart,1338,1670,19.9,3.8,In Stock,https://www.flipkart.com/,01-09-2026,1338,Flipkart
+P0001,boAt Rockerz 450 Wireless Headphones,boAt,Electronics,Flipkart,1585,1910,17,4.3,In Stock,https://www.flipkart.com/,02-09-2026,1363,Amazon
+P0001,boAt Rockerz 450 Wireless Headphones,boAt,Electronics,Flipkart,1448,1770,18.2,4.5,In Stock,https://www.flipkart.com/,03-09-2026,1381,Myntra
+P0001,boAt Rockerz 450 Wireless Headphones,boAt,Electronics,Myntra,1717,1994,13.9,4.4,In Stock,https://www.myntra.com/,01-09-2026,1338,Flipkart
+P0001,boAt Rockerz 450 Wireless Headphones,boAt,Electronics,Myntra,1471,2012,26.9,4.7,In Stock,https://www.myntra.com/,02-09-2026,1363,Amazon
+P0001,boAt Rockerz 450 Wireless Headphones,boAt,Electronics,Myntra,1381,1922,28.1,3.9,In Stock,https://www.myntra.com/,03-09-2026,1381,Myntra
+P0001,boAt Rockerz 450 Wireless Headphones,boAt,Electronics,Ajio,1608,2136,24.7,3.8,Limited Stock,https://www.ajio.com/,01-09-2026,1338,Flipkart
+P0001,boAt Rockerz 450 Wireless Headphones,boAt,Electronics,Ajio,1573,2170,27.5,4.6,In Stock,https://www.ajio.com/,02-09-2026,1363,Amazon
+P0001,boAt Rockerz 450 Wireless Headphones,boAt,Electronics,Ajio,1581,2084,24.1,4.4,In Stock,https://www.ajio.com/,03-09-2026,1381,Myntra
+P0002,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Amazon,1844,2497,26.2,3.9,In Stock,https://www.amazon.com/,01-09-2026,1602,Flipkart
+P0002,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Amazon,1944,2565,24.2,3.9,In Stock,https://www.amazon.com/,02-09-2026,1707,Ajio
+P0002,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Amazon,1992,2766,28,4.1,In Stock,https://www.amazon.com/,03-09-2026,1672,Ajio
+P0002,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Flipkart,1602,2070,22.6,4,In Stock,https://www.flipkart.com/,01-09-2026,1602,Flipkart
+P0002,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Flipkart,1878,2116,11.2,4.4,In Stock,https://www.flipkart.com/,02-09-2026,1707,Ajio
+P0002,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Flipkart,1792,2119,15.4,3.9,Limited Stock,https://www.flipkart.com/,03-09-2026,1672,Ajio
+P0002,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Myntra,1767,1968,10.2,4.4,In Stock,https://www.myntra.com/,01-09-2026,1602,Flipkart
+P0002,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Myntra,1979,2587,23.5,4.5,In Stock,https://www.myntra.com/,02-09-2026,1707,Ajio
+P0002,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Myntra,1746,2020,13.6,4.5,Limited Stock,https://www.myntra.com/,03-09-2026,1672,Ajio
+P0002,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Ajio,1736,2434,28.7,4.6,In Stock,https://www.ajio.com/,01-09-2026,1602,Flipkart
+P0002,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Ajio,1707,2054,16.9,4.2,Limited Stock,https://www.ajio.com/,02-09-2026,1707,Ajio
+P0002,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Ajio,1672,2221,24.7,4,In Stock,https://www.ajio.com/,03-09-2026,1672,Ajio
+P0003,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Amazon,2631,3221,18.3,4.6,Limited Stock,https://www.amazon.com/,01-09-2026,2540,Flipkart
+P0003,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Amazon,2434,3272,25.6,4.7,Limited Stock,https://www.amazon.com/,02-09-2026,2386,Myntra
+P0003,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Amazon,2295,2696,14.9,4.6,In Stock,https://www.amazon.com/,03-09-2026,2295,Amazon
+P0003,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Flipkart,2540,3470,26.8,4.4,In Stock,https://www.flipkart.com/,01-09-2026,2540,Flipkart
+P0003,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Flipkart,2416,3112,22.4,4.7,In Stock,https://www.flipkart.com/,02-09-2026,2386,Myntra
+P0003,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Flipkart,2716,3350,18.9,4.6,In Stock,https://www.flipkart.com/,03-09-2026,2295,Amazon
+P0003,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Myntra,2678,3054,12.3,4.5,In Stock,https://www.myntra.com/,01-09-2026,2540,Flipkart
+P0003,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Myntra,2386,3145,24.1,3.9,In Stock,https://www.myntra.com/,02-09-2026,2386,Myntra
+P0003,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Myntra,2817,3336,15.6,4.4,In Stock,https://www.myntra.com/,03-09-2026,2295,Amazon
+P0003,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Ajio,2558,2898,11.7,4.6,In Stock,https://www.ajio.com/,01-09-2026,2540,Flipkart
+P0003,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Ajio,2729,3297,17.2,4.3,In Stock,https://www.ajio.com/,02-09-2026,2386,Myntra
+P0003,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Ajio,2490,2921,14.8,4.3,In Stock,https://www.ajio.com/,03-09-2026,2295,Amazon
+P0004,Noise ColorFit Pulse 4 Smartwatch,Noise,Electronics,Amazon,14055,18377,23.5,3.8,In Stock,https://www.amazon.com/,01-09-2026,13762,Flipkart
+P0004,Noise ColorFit Pulse 4 Smartwatch,Noise,Electronics,Amazon,14198,15827,10.3,4.5,In Stock,https://www.amazon.com/,02-09-2026,13784,Flipkart
+P0004,Noise ColorFit Pulse 4 Smartwatch,Noise,Electronics,Amazon,13778,18415,25.2,4.3,In Stock,https://www.amazon.com/,03-09-2026,13778,Amazon
+P0004,Noise ColorFit Pulse 4 Smartwatch,Noise,Electronics,Flipkart,13762,16260,15.4,4.5,In Stock,https://www.flipkart.com/,01-09-2026,13762,Flipkart
+P0004,Noise ColorFit Pulse 4 Smartwatch,Noise,Electronics,Flipkart,13784,16568,16.8,4.7,In Stock,https://www.flipkart.com/,02-09-2026,13784,Flipkart
+P0004,Noise ColorFit Pulse 4 Smartwatch,Noise,Electronics,Flipkart,13854,17199,19.4,4.3,In Stock,https://www.flipkart.com/,03-09-2026,13778,Amazon
+P0004,Noise ColorFit Pulse 4 Smartwatch,Noise,Electronics,Myntra,14304,17706,19.2,4.5,In Stock,https://www.myntra.com/,01-09-2026,13762,Flipkart
+P0004,Noise ColorFit Pulse 4 Smartwatch,Noise,Electronics,Myntra,14194,18619,23.8,4.7,In Stock,https://www.myntra.com/,02-09-2026,13784,Flipkart
+P0004,Noise ColorFit Pulse 4 Smartwatch,Noise,Electronics,Myntra,14053,15971,12,4.2,In Stock,https://www.myntra.com/,03-09-2026,13778,Amazon
+P0004,Noise ColorFit Pulse 4 Smartwatch,Noise,Electronics,Ajio,13914,19520,28.7,3.8,In Stock,https://www.ajio.com/,01-09-2026,13762,Flipkart
+P0004,Noise ColorFit Pulse 4 Smartwatch,Noise,Electronics,Ajio,14100,18951,25.6,3.9,In Stock,https://www.ajio.com/,02-09-2026,13784,Flipkart
+P0004,Noise ColorFit Pulse 4 Smartwatch,Noise,Electronics,Ajio,13916,19504,28.7,3.8,In Stock,https://www.ajio.com/,03-09-2026,13778,Amazon
+P0005,boAt Wave Sigma Smartwatch,boAt,Electronics,Amazon,11785,14679,19.7,4.1,Limited Stock,https://www.amazon.com/,01-09-2026,11767,Flipkart
+P0005,boAt Wave Sigma Smartwatch,boAt,Electronics,Amazon,11858,14679,19.2,4.5,Limited Stock,https://www.amazon.com/,02-09-2026,11858,Amazon
+P0005,boAt Wave Sigma Smartwatch,boAt,Electronics,Amazon,11873,13855,14.3,4.5,In Stock,https://www.amazon.com/,03-09-2026,11750,Flipkart
+P0005,boAt Wave Sigma Smartwatch,boAt,Electronics,Flipkart,11767,16357,28.1,4.2,Limited Stock,https://www.flipkart.com/,01-09-2026,11767,Flipkart
+P0005,boAt Wave Sigma Smartwatch,boAt,Electronics,Flipkart,11929,15035,20.7,4.5,In Stock,https://www.flipkart.com/,02-09-2026,11858,Amazon
+P0005,boAt Wave Sigma Smartwatch,boAt,Electronics,Flipkart,11750,15054,21.9,4.1,In Stock,https://www.flipkart.com/,03-09-2026,11750,Flipkart
+P0005,boAt Wave Sigma Smartwatch,boAt,Electronics,Myntra,11956,16194,26.2,4.3,In Stock,https://www.myntra.com/,01-09-2026,11767,Flipkart
+P0005,boAt Wave Sigma Smartwatch,boAt,Electronics,Myntra,12045,16350,26.3,4.2,In Stock,https://www.myntra.com/,02-09-2026,11858,Amazon
+P0005,boAt Wave Sigma Smartwatch,boAt,Electronics,Myntra,12055,13991,13.8,4.6,In Stock,https://www.myntra.com/,03-09-2026,11750,Flipkart
+P0005,boAt Wave Sigma Smartwatch,boAt,Electronics,Ajio,11824,14238,17,4.3,In Stock,https://www.ajio.com/,01-09-2026,11767,Flipkart
+P0005,boAt Wave Sigma Smartwatch,boAt,Electronics,Ajio,12295,17108,28.1,4.5,In Stock,https://www.ajio.com/,02-09-2026,11858,Amazon
+P0005,boAt Wave Sigma Smartwatch,boAt,Electronics,Ajio,11884,15211,21.9,4.2,Limited Stock,https://www.ajio.com/,03-09-2026,11750,Flipkart
+P0006,Samsung Galaxy M35 5G,Samsung,Mobiles,Amazon,16211,22777,28.8,4.1,Limited Stock,https://www.amazon.com/,01-09-2026,15798,Flipkart
+P0006,Samsung Galaxy M35 5G,Samsung,Mobiles,Amazon,15884,17942,11.5,4.5,In Stock,https://www.amazon.com/,02-09-2026,15864,Myntra
+P0006,Samsung Galaxy M35 5G,Samsung,Mobiles,Amazon,15965,19021,16.1,4.5,Limited Stock,https://www.amazon.com/,03-09-2026,15748,Flipkart
+P0006,Samsung Galaxy M35 5G,Samsung,Mobiles,Flipkart,15798,21407,26.2,4,In Stock,https://www.flipkart.com/,01-09-2026,15798,Flipkart
+P0006,Samsung Galaxy M35 5G,Samsung,Mobiles,Flipkart,16015,18905,15.3,3.9,In Stock,https://www.flipkart.com/,02-09-2026,15864,Myntra
+P0006,Samsung Galaxy M35 5G,Samsung,Mobiles,Flipkart,15748,22179,29,4.2,In Stock,https://www.flipkart.com/,03-09-2026,15748,Flipkart
+P0006,Samsung Galaxy M35 5G,Samsung,Mobiles,Myntra,15858,17775,10.8,3.9,In Stock,https://www.myntra.com/,01-09-2026,15798,Flipkart
+P0006,Samsung Galaxy M35 5G,Samsung,Mobiles,Myntra,15864,19370,18.1,4.4,In Stock,https://www.myntra.com/,02-09-2026,15864,Myntra
+P0006,Samsung Galaxy M35 5G,Samsung,Mobiles,Myntra,16035,22148,27.6,4.6,In Stock,https://www.myntra.com/,03-09-2026,15748,Flipkart
+P0006,Samsung Galaxy M35 5G,Samsung,Mobiles,Ajio,16095,19654,18.1,4.4,Limited Stock,https://www.ajio.com/,01-09-2026,15798,Flipkart
+P0006,Samsung Galaxy M35 5G,Samsung,Mobiles,Ajio,16135,19756,18.3,4.3,In Stock,https://www.ajio.com/,02-09-2026,15864,Myntra
+P0006,Samsung Galaxy M35 5G,Samsung,Mobiles,Ajio,15903,19070,16.6,4.1,In Stock,https://www.ajio.com/,03-09-2026,15748,Flipkart
+P0007,OnePlus Nord CE 4 Lite 5G,OnePlus,Mobiles,Amazon,8951,12326,27.4,4.4,Limited Stock,https://www.amazon.com/,01-09-2026,8756,Flipkart
+P0007,OnePlus Nord CE 4 Lite 5G,OnePlus,Mobiles,Amazon,8910,10059,11.4,4.6,In Stock,https://www.amazon.com/,02-09-2026,8910,Amazon
+P0007,OnePlus Nord CE 4 Lite 5G,OnePlus,Mobiles,Amazon,8983,10899,17.6,4.3,In Stock,https://www.amazon.com/,03-09-2026,8908,Flipkart
+P0007,OnePlus Nord CE 4 Lite 5G,OnePlus,Mobiles,Flipkart,8756,10843,19.2,4.3,In Stock,https://www.flipkart.com/,01-09-2026,8756,Flipkart
+P0007,OnePlus Nord CE 4 Lite 5G,OnePlus,Mobiles,Flipkart,9196,11946,23,3.9,In Stock,https://www.flipkart.com/,02-09-2026,8910,Amazon
+P0007,OnePlus Nord CE 4 Lite 5G,OnePlus,Mobiles,Flipkart,8908,11768,24.3,4.2,In Stock,https://www.flipkart.com/,03-09-2026,8908,Flipkart
+P0007,OnePlus Nord CE 4 Lite 5G,OnePlus,Mobiles,Myntra,9142,10194,10.3,4.5,In Stock,https://www.myntra.com/,01-09-2026,8756,Flipkart
+P0007,OnePlus Nord CE 4 Lite 5G,OnePlus,Mobiles,Myntra,9170,10621,13.7,4.1,In Stock,https://www.myntra.com/,02-09-2026,8910,Amazon
+P0007,OnePlus Nord CE 4 Lite 5G,OnePlus,Mobiles,Myntra,9309,10631,12.4,4,In Stock,https://www.myntra.com/,03-09-2026,8908,Flipkart
+P0007,OnePlus Nord CE 4 Lite 5G,OnePlus,Mobiles,Ajio,9179,11323,18.9,4,In Stock,https://www.ajio.com/,01-09-2026,8756,Flipkart
+P0007,OnePlus Nord CE 4 Lite 5G,OnePlus,Mobiles,Ajio,9166,11926,23.1,4.4,In Stock,https://www.ajio.com/,02-09-2026,8910,Amazon
+P0007,OnePlus Nord CE 4 Lite 5G,OnePlus,Mobiles,Ajio,9057,11354,20.2,4.6,In Stock,https://www.ajio.com/,03-09-2026,8908,Flipkart
+P0008,Redmi Note 14 5G,Redmi,Mobiles,Amazon,12796,15475,17.3,4.5,In Stock,https://www.amazon.com/,01-09-2026,12796,Amazon
+P0008,Redmi Note 14 5G,Redmi,Mobiles,Amazon,12750,16629,23.3,3.9,In Stock,https://www.amazon.com/,02-09-2026,12750,Amazon
+P0008,Redmi Note 14 5G,Redmi,Mobiles,Amazon,12831,15127,15.2,4.3,Limited Stock,https://www.amazon.com/,03-09-2026,12831,Amazon
+P0008,Redmi Note 14 5G,Redmi,Mobiles,Flipkart,13006,18529,29.8,3.9,In Stock,https://www.flipkart.com/,01-09-2026,12796,Amazon
+P0008,Redmi Note 14 5G,Redmi,Mobiles,Flipkart,12998,18379,29.3,4.1,In Stock,https://www.flipkart.com/,02-09-2026,12750,Amazon
+P0008,Redmi Note 14 5G,Redmi,Mobiles,Flipkart,12939,17835,27.5,4.1,In Stock,https://www.flipkart.com/,03-09-2026,12831,Amazon
+P0008,Redmi Note 14 5G,Redmi,Mobiles,Myntra,13289,17224,22.8,4.4,In Stock,https://www.myntra.com/,01-09-2026,12796,Amazon
+P0008,Redmi Note 14 5G,Redmi,Mobiles,Myntra,13010,15198,14.4,4.6,Limited Stock,https://www.myntra.com/,02-09-2026,12750,Amazon
+P0008,Redmi Note 14 5G,Redmi,Mobiles,Myntra,13327,16171,17.6,3.9,In Stock,https://www.myntra.com/,03-09-2026,12831,Amazon
+P0008,Redmi Note 14 5G,Redmi,Mobiles,Ajio,13241,18076,26.7,4.5,In Stock,https://www.ajio.com/,01-09-2026,12796,Amazon
+P0008,Redmi Note 14 5G,Redmi,Mobiles,Ajio,13250,16934,21.8,4,In Stock,https://www.ajio.com/,02-09-2026,12750,Amazon
+P0008,Redmi Note 14 5G,Redmi,Mobiles,Ajio,13199,14895,11.4,4.5,In Stock,https://www.ajio.com/,03-09-2026,12831,Amazon
+P0009,Realme Narzo 70 5G,Realme,Mobiles,Amazon,10885,14873,26.8,4.4,Limited Stock,https://www.amazon.com/,01-09-2026,10833,Flipkart
+P0009,Realme Narzo 70 5G,Realme,Mobiles,Amazon,11195,15818,29.2,4.2,In Stock,https://www.amazon.com/,02-09-2026,10861,Flipkart
+P0009,Realme Narzo 70 5G,Realme,Mobiles,Amazon,11167,12637,11.6,4.1,In Stock,https://www.amazon.com/,03-09-2026,10799,Ajio
+P0009,Realme Narzo 70 5G,Realme,Mobiles,Flipkart,10833,15372,29.5,4,In Stock,https://www.flipkart.com/,01-09-2026,10833,Flipkart
+P0009,Realme Narzo 70 5G,Realme,Mobiles,Flipkart,10861,12443,12.7,4.7,In Stock,https://www.flipkart.com/,02-09-2026,10861,Flipkart
+P0009,Realme Narzo 70 5G,Realme,Mobiles,Flipkart,10898,13157,17.2,4.2,In Stock,https://www.flipkart.com/,03-09-2026,10799,Ajio
+P0009,Realme Narzo 70 5G,Realme,Mobiles,Myntra,11309,16029,29.4,4.6,In Stock,https://www.myntra.com/,01-09-2026,10833,Flipkart
+P0009,Realme Narzo 70 5G,Realme,Mobiles,Myntra,10920,13380,18.4,4.7,In Stock,https://www.myntra.com/,02-09-2026,10861,Flipkart
+P0009,Realme Narzo 70 5G,Realme,Mobiles,Myntra,10884,13284,18.1,4.1,In Stock,https://www.myntra.com/,03-09-2026,10799,Ajio
+P0009,Realme Narzo 70 5G,Realme,Mobiles,Ajio,11022,13421,17.9,4.3,Limited Stock,https://www.ajio.com/,01-09-2026,10833,Flipkart
+P0009,Realme Narzo 70 5G,Realme,Mobiles,Ajio,11259,13809,18.5,4,Limited Stock,https://www.ajio.com/,02-09-2026,10861,Flipkart
+P0009,Realme Narzo 70 5G,Realme,Mobiles,Ajio,10799,13432,19.6,4.5,In Stock,https://www.ajio.com/,03-09-2026,10799,Ajio
+P0010,HP 15 Laptop,HP,Laptops,Amazon,42935,54607,21.4,4.7,In Stock,https://www.amazon.com/,01-09-2026,42935,Amazon
+P0010,HP 15 Laptop,HP,Laptops,Amazon,43068,56462,23.7,4.6,In Stock,https://www.amazon.com/,02-09-2026,42846,Ajio
+P0010,HP 15 Laptop,HP,Laptops,Amazon,43008,56452,23.8,4.2,Limited Stock,https://www.amazon.com/,03-09-2026,42914,Ajio
+P0010,HP 15 Laptop,HP,Laptops,Flipkart,43075,56743,24.1,3.9,Limited Stock,https://www.flipkart.com/,01-09-2026,42935,Amazon
+P0010,HP 15 Laptop,HP,Laptops,Flipkart,43059,48486,11.2,4.4,In Stock,https://www.flipkart.com/,02-09-2026,42846,Ajio
+P0010,HP 15 Laptop,HP,Laptops,Flipkart,43034,52879,18.6,4.2,In Stock,https://www.flipkart.com/,03-09-2026,42914,Ajio
+P0010,HP 15 Laptop,HP,Laptops,Myntra,42984,56753,24.3,4.2,In Stock,https://www.myntra.com/,01-09-2026,42935,Amazon
+P0010,HP 15 Laptop,HP,Laptops,Myntra,43067,54629,21.2,4.4,Limited Stock,https://www.myntra.com/,02-09-2026,42846,Ajio
+P0010,HP 15 Laptop,HP,Laptops,Myntra,43235,49118,12,4.5,In Stock,https://www.myntra.com/,03-09-2026,42914,Ajio
+P0010,HP 15 Laptop,HP,Laptops,Ajio,43136,60165,28.3,4.3,In Stock,https://www.ajio.com/,01-09-2026,42935,Amazon
+P0010,HP 15 Laptop,HP,Laptops,Ajio,42846,49608,13.6,4.5,In Stock,https://www.ajio.com/,02-09-2026,42846,Ajio
+P0010,HP 15 Laptop,HP,Laptops,Ajio,42914,49824,13.9,3.9,In Stock,https://www.ajio.com/,03-09-2026,42914,Ajio
+P0011,Lenovo IdeaPad Slim 3,Lenovo,Laptops,Amazon,38874,43348,10.3,4.4,In Stock,https://www.amazon.com/,01-09-2026,38794,Flipkart
+P0011,Lenovo IdeaPad Slim 3,Lenovo,Laptops,Amazon,38982,49793,21.7,4.4,In Stock,https://www.amazon.com/,02-09-2026,38982,Amazon
+P0011,Lenovo IdeaPad Slim 3,Lenovo,Laptops,Amazon,39116,46607,16.1,4.2,In Stock,https://www.amazon.com/,03-09-2026,38744,Flipkart
+P0011,Lenovo IdeaPad Slim 3,Lenovo,Laptops,Flipkart,38794,46672,16.9,3.8,In Stock,https://www.flipkart.com/,01-09-2026,38794,Flipkart
+P0011,Lenovo IdeaPad Slim 3,Lenovo,Laptops,Flipkart,39117,49829,21.5,4,Limited Stock,https://www.flipkart.com/,02-09-2026,38982,Amazon
+P0011,Lenovo IdeaPad Slim 3,Lenovo,Laptops,Flipkart,38744,47745,18.9,4.6,In Stock,https://www.flipkart.com/,03-09-2026,38744,Flipkart
+P0011,Lenovo IdeaPad Slim 3,Lenovo,Laptops,Myntra,39062,53755,27.3,4.2,In Stock,https://www.myntra.com/,01-09-2026,38794,Flipkart
+P0011,Lenovo IdeaPad Slim 3,Lenovo,Laptops,Myntra,39315,46196,14.9,4.2,Limited Stock,https://www.myntra.com/,02-09-2026,38982,Amazon
+P0011,Lenovo IdeaPad Slim 3,Lenovo,Laptops,Myntra,39254,44537,11.9,4.2,In Stock,https://www.myntra.com/,03-09-2026,38744,Flipkart
+P0011,Lenovo IdeaPad Slim 3,Lenovo,Laptops,Ajio,39179,44915,12.8,4.2,In Stock,https://www.ajio.com/,01-09-2026,38794,Flipkart
+P0011,Lenovo IdeaPad Slim 3,Lenovo,Laptops,Ajio,39229,47405,17.2,4.5,Limited Stock,https://www.ajio.com/,02-09-2026,38982,Amazon
+P0011,Lenovo IdeaPad Slim 3,Lenovo,Laptops,Ajio,39119,52309,25.2,4.2,In Stock,https://www.ajio.com/,03-09-2026,38744,Flipkart
+P0012,ASUS Vivobook 15,ASUS,Laptops,Amazon,45869,60807,24.6,4.1,In Stock,https://www.amazon.com/,01-09-2026,45832,Myntra
+P0012,ASUS Vivobook 15,ASUS,Laptops,Amazon,45819,62751,27,4.1,In Stock,https://www.amazon.com/,02-09-2026,45819,Amazon
+P0012,ASUS Vivobook 15,ASUS,Laptops,Amazon,46110,62077,25.7,4.2,In Stock,https://www.amazon.com/,03-09-2026,46078,Myntra
+P0012,ASUS Vivobook 15,ASUS,Laptops,Flipkart,45996,57989,20.7,3.9,Limited Stock,https://www.flipkart.com/,01-09-2026,45832,Myntra
+P0012,ASUS Vivobook 15,ASUS,Laptops,Flipkart,45918,52122,11.9,4.3,In Stock,https://www.flipkart.com/,02-09-2026,45819,Amazon
+P0012,ASUS Vivobook 15,ASUS,Laptops,Flipkart,46157,52683,12.4,4.3,Limited Stock,https://www.flipkart.com/,03-09-2026,46078,Myntra
+P0012,ASUS Vivobook 15,ASUS,Laptops,Myntra,45832,51581,11.1,4.1,Limited Stock,https://www.myntra.com/,01-09-2026,45832,Myntra
+P0012,ASUS Vivobook 15,ASUS,Laptops,Myntra,46265,52674,12.2,4.6,In Stock,https://www.myntra.com/,02-09-2026,45819,Amazon
+P0012,ASUS Vivobook 15,ASUS,Laptops,Myntra,46078,61942,25.6,4.2,In Stock,https://www.myntra.com/,03-09-2026,46078,Myntra
+P0012,ASUS Vivobook 15,ASUS,Laptops,Ajio,45998,59954,23.3,4.4,Limited Stock,https://www.ajio.com/,01-09-2026,45832,Myntra
+P0012,ASUS Vivobook 15,ASUS,Laptops,Ajio,46169,62986,26.7,4.2,In Stock,https://www.ajio.com/,02-09-2026,45819,Amazon
+P0012,ASUS Vivobook 15,ASUS,Laptops,Ajio,46117,57159,19.3,4.6,In Stock,https://www.ajio.com/,03-09-2026,46078,Myntra
+P0013,Puma Running Shoes,Puma,Fashion,Amazon,2091,2524,17.2,3.9,Limited Stock,https://www.amazon.com/,01-09-2026,2091,Amazon
+P0013,Puma Running Shoes,Puma,Fashion,Amazon,2142,3017,29,4.1,In Stock,https://www.amazon.com/,02-09-2026,2142,Amazon
+P0013,Puma Running Shoes,Puma,Fashion,Amazon,2281,2980,23.5,4.5,Limited Stock,https://www.amazon.com/,03-09-2026,2281,Amazon
+P0013,Puma Running Shoes,Puma,Fashion,Flipkart,2161,2541,15,4.5,In Stock,https://www.flipkart.com/,01-09-2026,2091,Amazon
+P0013,Puma Running Shoes,Puma,Fashion,Flipkart,2446,3414,28.4,3.8,In Stock,https://www.flipkart.com/,02-09-2026,2142,Amazon
+P0013,Puma Running Shoes,Puma,Fashion,Flipkart,2506,3255,23,4.4,In Stock,https://www.flipkart.com/,03-09-2026,2281,Amazon
+P0013,Puma Running Shoes,Puma,Fashion,Myntra,2515,3561,29.4,4,In Stock,https://www.myntra.com/,01-09-2026,2091,Amazon
+P0013,Puma Running Shoes,Puma,Fashion,Myntra,2447,3350,27,3.9,In Stock,https://www.myntra.com/,02-09-2026,2142,Amazon
+P0013,Puma Running Shoes,Puma,Fashion,Myntra,2417,2717,11,4.2,In Stock,https://www.myntra.com/,03-09-2026,2281,Amazon
+P0013,Puma Running Shoes,Puma,Fashion,Ajio,2491,3219,22.6,4.3,In Stock,https://www.ajio.com/,01-09-2026,2091,Amazon
+P0013,Puma Running Shoes,Puma,Fashion,Ajio,2497,2891,13.6,4.7,In Stock,https://www.ajio.com/,02-09-2026,2142,Amazon
+P0013,Puma Running Shoes,Puma,Fashion,Ajio,2395,3397,29.5,4.1,Limited Stock,https://www.ajio.com/,03-09-2026,2281,Amazon
+P0014,Nike Revolution Running Shoes,Nike,Fashion,Amazon,2952,3323,11.2,4,In Stock,https://www.amazon.com/,01-09-2026,2952,Amazon
+P0014,Nike Revolution Running Shoes,Nike,Fashion,Amazon,2801,3337,16.1,4.1,In Stock,https://www.amazon.com/,02-09-2026,2725,Flipkart
+P0014,Nike Revolution Running Shoes,Nike,Fashion,Amazon,3156,3519,10.3,4.5,In Stock,https://www.amazon.com/,03-09-2026,2940,Flipkart
+P0014,Nike Revolution Running Shoes,Nike,Fashion,Flipkart,2991,3807,21.4,4.1,In Stock,https://www.flipkart.com/,01-09-2026,2952,Amazon
+P0014,Nike Revolution Running Shoes,Nike,Fashion,Flipkart,2725,3132,13,4.5,In Stock,https://www.flipkart.com/,02-09-2026,2725,Flipkart
+P0014,Nike Revolution Running Shoes,Nike,Fashion,Flipkart,2940,3295,10.8,4.4,Limited Stock,https://www.flipkart.com/,03-09-2026,2940,Flipkart
+P0014,Nike Revolution Running Shoes,Nike,Fashion,Myntra,3191,4368,26.9,4,In Stock,https://www.myntra.com/,01-09-2026,2952,Amazon
+P0014,Nike Revolution Running Shoes,Nike,Fashion,Myntra,3144,3649,13.8,4.3,Limited Stock,https://www.myntra.com/,02-09-2026,2725,Flipkart
+P0014,Nike Revolution Running Shoes,Nike,Fashion,Myntra,3067,3897,21.3,4.5,In Stock,https://www.myntra.com/,03-09-2026,2940,Flipkart
+P0014,Nike Revolution Running Shoes,Nike,Fashion,Ajio,2964,3406,13,4.5,In Stock,https://www.ajio.com/,01-09-2026,2952,Amazon
+P0014,Nike Revolution Running Shoes,Nike,Fashion,Ajio,2941,3356,12.4,4,Limited Stock,https://www.ajio.com/,02-09-2026,2725,Flipkart
+P0014,Nike Revolution Running Shoes,Nike,Fashion,Ajio,3090,3759,17.8,4.1,In Stock,https://www.ajio.com/,03-09-2026,2940,Flipkart
+P0015,Adidas Grand Court Shoes,Adidas,Fashion,Amazon,2502,2875,13,4,In Stock,https://www.amazon.com/,01-09-2026,2342,Flipkart
+P0015,Adidas Grand Court Shoes,Adidas,Fashion,Amazon,2430,2827,14,4.1,In Stock,https://www.amazon.com/,02-09-2026,2430,Amazon
+P0015,Adidas Grand Court Shoes,Adidas,Fashion,Amazon,2533,3608,29.8,4.7,In Stock,https://www.amazon.com/,03-09-2026,2397,Ajio
+P0015,Adidas Grand Court Shoes,Adidas,Fashion,Flipkart,2342,2775,15.6,4.2,In Stock,https://www.flipkart.com/,01-09-2026,2342,Flipkart
+P0015,Adidas Grand Court Shoes,Adidas,Fashion,Flipkart,2572,3234,20.5,4.4,Limited Stock,https://www.flipkart.com/,02-09-2026,2430,Amazon
+P0015,Adidas Grand Court Shoes,Adidas,Fashion,Flipkart,2624,3730,29.7,4.1,Limited Stock,https://www.flipkart.com/,03-09-2026,2397,Ajio
+P0015,Adidas Grand Court Shoes,Adidas,Fashion,Myntra,2683,3584,25.1,4.4,In Stock,https://www.myntra.com/,01-09-2026,2342,Flipkart
+P0015,Adidas Grand Court Shoes,Adidas,Fashion,Myntra,2571,3171,18.9,4.1,In Stock,https://www.myntra.com/,02-09-2026,2430,Amazon
+P0015,Adidas Grand Court Shoes,Adidas,Fashion,Myntra,2509,2985,15.9,4,In Stock,https://www.myntra.com/,03-09-2026,2397,Ajio
+P0015,Adidas Grand Court Shoes,Adidas,Fashion,Ajio,2417,3338,27.6,4,In Stock,https://www.ajio.com/,01-09-2026,2342,Flipkart
+P0015,Adidas Grand Court Shoes,Adidas,Fashion,Ajio,2679,3319,19.3,4.5,In Stock,https://www.ajio.com/,02-09-2026,2430,Amazon
+P0015,Adidas Grand Court Shoes,Adidas,Fashion,Ajio,2397,3225,25.7,4.2,In Stock,https://www.ajio.com/,03-09-2026,2397,Ajio
+P0016,Wildcraft Laptop Backpack,Wildcraft,Bags,Amazon,1300,1500,13.3,4.1,In Stock,https://www.amazon.com/,01-09-2026,1300,Amazon
+P0016,Wildcraft Laptop Backpack,Wildcraft,Bags,Amazon,1340,1762,24,4.4,In Stock,https://www.amazon.com/,02-09-2026,1271,Flipkart
+P0016,Wildcraft Laptop Backpack,Wildcraft,Bags,Amazon,1389,1959,29.1,3.8,In Stock,https://www.amazon.com/,03-09-2026,1389,Amazon
+P0016,Wildcraft Laptop Backpack,Wildcraft,Bags,Flipkart,1576,1773,11.1,4.4,Limited Stock,https://www.flipkart.com/,01-09-2026,1300,Amazon
+P0016,Wildcraft Laptop Backpack,Wildcraft,Bags,Flipkart,1271,1453,12.5,4.3,Limited Stock,https://www.flipkart.com/,02-09-2026,1271,Flipkart
+P0016,Wildcraft Laptop Backpack,Wildcraft,Bags,Flipkart,1464,1858,21.2,4,In Stock,https://www.flipkart.com/,03-09-2026,1389,Amazon
+P0016,Wildcraft Laptop Backpack,Wildcraft,Bags,Myntra,1458,1641,11.2,4.2,In Stock,https://www.myntra.com/,01-09-2026,1300,Amazon
+P0016,Wildcraft Laptop Backpack,Wildcraft,Bags,Myntra,1534,1921,20.1,4.3,In Stock,https://www.myntra.com/,02-09-2026,1271,Flipkart
+P0016,Wildcraft Laptop Backpack,Wildcraft,Bags,Myntra,1406,1926,27,4.3,In Stock,https://www.myntra.com/,03-09-2026,1389,Amazon
+P0016,Wildcraft Laptop Backpack,Wildcraft,Bags,Ajio,1342,1493,10.1,3.9,Limited Stock,https://www.ajio.com/,01-09-2026,1300,Amazon
+P0016,Wildcraft Laptop Backpack,Wildcraft,Bags,Ajio,1609,1964,18.1,4.4,Limited Stock,https://www.ajio.com/,02-09-2026,1271,Flipkart
+P0016,Wildcraft Laptop Backpack,Wildcraft,Bags,Ajio,1529,1734,11.8,4.1,Limited Stock,https://www.ajio.com/,03-09-2026,1389,Amazon
+P0017,American Tourister Backpack,American Tourister,Bags,Amazon,1705,2095,18.6,3.9,In Stock,https://www.amazon.com/,01-09-2026,1599,Flipkart
+P0017,American Tourister Backpack,American Tourister,Bags,Amazon,2034,2386,14.8,4.4,In Stock,https://www.amazon.com/,02-09-2026,1668,Flipkart
+P0017,American Tourister Backpack,American Tourister,Bags,Amazon,1887,2635,28.4,4,In Stock,https://www.amazon.com/,03-09-2026,1878,Flipkart
+P0017,American Tourister Backpack,American Tourister,Bags,Flipkart,1599,2283,30,4.2,Limited Stock,https://www.flipkart.com/,01-09-2026,1599,Flipkart
+P0017,American Tourister Backpack,American Tourister,Bags,Flipkart,1668,2361,29.4,4.1,In Stock,https://www.flipkart.com/,02-09-2026,1668,Flipkart
+P0017,American Tourister Backpack,American Tourister,Bags,Flipkart,1878,2154,12.8,3.9,In Stock,https://www.flipkart.com/,03-09-2026,1878,Flipkart
+P0017,American Tourister Backpack,American Tourister,Bags,Myntra,2102,2792,24.7,4.5,In Stock,https://www.myntra.com/,01-09-2026,1599,Flipkart
+P0017,American Tourister Backpack,American Tourister,Bags,Myntra,1846,2553,27.7,4,In Stock,https://www.myntra.com/,02-09-2026,1668,Flipkart
+P0017,American Tourister Backpack,American Tourister,Bags,Myntra,2094,2780,24.7,3.9,In Stock,https://www.myntra.com/,03-09-2026,1878,Flipkart
+P0017,American Tourister Backpack,American Tourister,Bags,Ajio,1683,1960,14.1,4.3,In Stock,https://www.ajio.com/,01-09-2026,1599,Flipkart
+P0017,American Tourister Backpack,American Tourister,Bags,Ajio,1823,2515,27.5,4.4,Limited Stock,https://www.ajio.com/,02-09-2026,1668,Flipkart
+P0017,American Tourister Backpack,American Tourister,Bags,Ajio,2081,2758,24.5,4.3,Limited Stock,https://www.ajio.com/,03-09-2026,1878,Flipkart
+P0018,Prestige Electric Kettle 1.5L,Prestige,Home & Kitchen,Amazon,1590,1940,18,4.6,In Stock,https://www.amazon.com/,01-09-2026,1590,Amazon
+P0018,Prestige Electric Kettle 1.5L,Prestige,Home & Kitchen,Amazon,1858,2477,25,3.9,In Stock,https://www.amazon.com/,02-09-2026,1858,Amazon
+P0018,Prestige Electric Kettle 1.5L,Prestige,Home & Kitchen,Amazon,1940,2325,16.6,4,In Stock,https://www.amazon.com/,03-09-2026,1776,Myntra
+P0018,Prestige Electric Kettle 1.5L,Prestige,Home & Kitchen,Flipkart,1909,2243,14.9,4.2,Limited Stock,https://www.flipkart.com/,01-09-2026,1590,Amazon
+P0018,Prestige Electric Kettle 1.5L,Prestige,Home & Kitchen,Flipkart,1988,2631,24.4,4.7,Limited Stock,https://www.flipkart.com/,02-09-2026,1858,Amazon
+P0018,Prestige Electric Kettle 1.5L,Prestige,Home & Kitchen,Flipkart,1844,2137,13.7,4.7,Limited Stock,https://www.flipkart.com/,03-09-2026,1776,Myntra
+P0018,Prestige Electric Kettle 1.5L,Prestige,Home & Kitchen,Myntra,1807,2312,21.8,4.1,In Stock,https://www.myntra.com/,01-09-2026,1590,Amazon
+P0018,Prestige Electric Kettle 1.5L,Prestige,Home & Kitchen,Myntra,2068,2825,26.8,4.2,Limited Stock,https://www.myntra.com/,02-09-2026,1858,Amazon
+P0018,Prestige Electric Kettle 1.5L,Prestige,Home & Kitchen,Myntra,1776,2133,16.7,4.2,In Stock,https://www.myntra.com/,03-09-2026,1776,Myntra
+P0018,Prestige Electric Kettle 1.5L,Prestige,Home & Kitchen,Ajio,1831,2552,28.3,4,In Stock,https://www.ajio.com/,01-09-2026,1590,Amazon
+P0018,Prestige Electric Kettle 1.5L,Prestige,Home & Kitchen,Ajio,2095,2452,14.6,4.6,In Stock,https://www.ajio.com/,02-09-2026,1858,Amazon
+P0018,Prestige Electric Kettle 1.5L,Prestige,Home & Kitchen,Ajio,1935,2214,12.6,4.2,In Stock,https://www.ajio.com/,03-09-2026,1776,Myntra
+P0019,Philips Air Fryer 4.1L,Philips,Home & Kitchen,Amazon,6845,8517,19.6,4.4,Limited Stock,https://www.amazon.com/,01-09-2026,6781,Flipkart
+P0019,Philips Air Fryer 4.1L,Philips,Home & Kitchen,Amazon,7069,8966,21.2,3.8,In Stock,https://www.amazon.com/,02-09-2026,7069,Amazon
+P0019,Philips Air Fryer 4.1L,Philips,Home & Kitchen,Amazon,7030,9680,27.4,4.1,Limited Stock,https://www.amazon.com/,03-09-2026,6766,Flipkart
+P0019,Philips Air Fryer 4.1L,Philips,Home & Kitchen,Flipkart,6781,9608,29.4,4.4,In Stock,https://www.flipkart.com/,01-09-2026,6781,Flipkart
+P0019,Philips Air Fryer 4.1L,Philips,Home & Kitchen,Flipkart,7082,9679,26.8,4.3,Limited Stock,https://www.flipkart.com/,02-09-2026,7069,Amazon
+P0019,Philips Air Fryer 4.1L,Philips,Home & Kitchen,Flipkart,6766,9083,25.5,4.6,In Stock,https://www.flipkart.com/,03-09-2026,6766,Flipkart
+P0019,Philips Air Fryer 4.1L,Philips,Home & Kitchen,Myntra,7065,7943,11.1,4.4,In Stock,https://www.myntra.com/,01-09-2026,6781,Flipkart
+P0019,Philips Air Fryer 4.1L,Philips,Home & Kitchen,Myntra,7084,7991,11.4,4.1,In Stock,https://www.myntra.com/,02-09-2026,7069,Amazon
+P0019,Philips Air Fryer 4.1L,Philips,Home & Kitchen,Myntra,7041,8122,13.3,4.7,In Stock,https://www.myntra.com/,03-09-2026,6766,Flipkart
+P0019,Philips Air Fryer 4.1L,Philips,Home & Kitchen,Ajio,7032,8679,19,4.1,In Stock,https://www.ajio.com/,01-09-2026,6781,Flipkart
+P0019,Philips Air Fryer 4.1L,Philips,Home & Kitchen,Ajio,7241,10142,28.6,4.5,Limited Stock,https://www.ajio.com/,02-09-2026,7069,Amazon
+P0019,Philips Air Fryer 4.1L,Philips,Home & Kitchen,Ajio,6973,7863,11.3,4.3,In Stock,https://www.ajio.com/,03-09-2026,6766,Flipkart
+P0020,Prestige Induction Cooktop,Prestige,Home & Kitchen,Amazon,2393,2831,15.5,4.6,Limited Stock,https://www.amazon.com/,01-09-2026,2393,Amazon
+P0020,Prestige Induction Cooktop,Prestige,Home & Kitchen,Amazon,2692,3689,27,4.3,In Stock,https://www.amazon.com/,02-09-2026,2508,Ajio
+P0020,Prestige Induction Cooktop,Prestige,Home & Kitchen,Amazon,2419,2985,19,4.3,Limited Stock,https://www.amazon.com/,03-09-2026,2241,Flipkart
+P0020,Prestige Induction Cooktop,Prestige,Home & Kitchen,Flipkart,2696,3527,23.6,4,In Stock,https://www.flipkart.com/,01-09-2026,2393,Amazon
+P0020,Prestige Induction Cooktop,Prestige,Home & Kitchen,Flipkart,2511,3233,22.3,4.6,Limited Stock,https://www.flipkart.com/,02-09-2026,2508,Ajio
+P0020,Prestige Induction Cooktop,Prestige,Home & Kitchen,Flipkart,2241,2935,23.6,4.2,Limited Stock,https://www.flipkart.com/,03-09-2026,2241,Flipkart
+P0020,Prestige Induction Cooktop,Prestige,Home & Kitchen,Myntra,2526,2814,10.2,4.5,In Stock,https://www.myntra.com/,01-09-2026,2393,Amazon
+P0020,Prestige Induction Cooktop,Prestige,Home & Kitchen,Myntra,2582,2891,10.7,3.9,In Stock,https://www.myntra.com/,02-09-2026,2508,Ajio
+P0020,Prestige Induction Cooktop,Prestige,Home & Kitchen,Myntra,2774,3852,28,4.6,In Stock,https://www.myntra.com/,03-09-2026,2241,Flipkart
+P0020,Prestige Induction Cooktop,Prestige,Home & Kitchen,Ajio,2568,2911,11.8,3.8,In Stock,https://www.ajio.com/,01-09-2026,2393,Amazon
+P0020,Prestige Induction Cooktop,Prestige,Home & Kitchen,Ajio,2508,2869,12.6,4.7,In Stock,https://www.ajio.com/,02-09-2026,2508,Ajio
+P0020,Prestige Induction Cooktop,Prestige,Home & Kitchen,Ajio,2539,2965,14.4,4,Limited Stock,https://www.ajio.com/,03-09-2026,2241,Flipkart
